@@ -9,7 +9,7 @@
   "author": "Christian Fei, crifei93@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "m.test": "0.0.53"
+    "m.test": "^0.0.53"
   },
   "standard": {
     "globals": [
@@ -20,7 +20,6 @@
     "test": "test"
   },
   "dependencies": {
-    "m.test": "^0.0.53"
   },
   "repository": {
     "type": "git",
